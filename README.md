@@ -14,7 +14,9 @@ Principal.Principal : Tem objetivo de rodar o código que será exposto no conso
 
 Modulo.Menu : Apenas armazena as duas opções de Menu a serem mostradas. Uma de primeiro uso com Boas vindas e outra de repetição.
 Modulo.LeitorApi : Classe do tipo record, apenas para fazer a leitura dos campos que me interessam na API.
+
 Modulo.Moeda : ( Acho que deveria ter escrito ela no plural "Moedas" rs ) Essa classe recebe os dados da leitorApi.
+
 Api.Convector: Classe responsavel por fazer a conexão com a API e mostrar a conversão que ja vem da API de acordo com a opção selecionada no Menu.
 
 # Considerações finais: 
