@@ -11,7 +11,7 @@ import java.net.http.HttpResponse;
 
 public class ApiConector {
 
-    private String chaveApi = "INSIRA SUA CHAVE DA API AQIO";
+    private String chaveApi = "INSIRA SUA CHAVE DA API AQUI";
     private String url = "https://v6.exchangerate-api.com/v6/";
     private String moedaBase;
     private String moedaAlvo;
